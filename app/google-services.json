@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95500921560",
+    "firebase_url": "https://mllearning-d6fd1.firebaseio.com",
+    "project_id": "mllearning-d6fd1",
+    "storage_bucket": "mllearning-d6fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95500921560:android:45335c64bbdc44840585ad",
+        "android_client_info": {
+          "package_name": "com.k_zawn.mllearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95500921560-tiotc6jc8renuuhlgqls57n7enmm0fsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.k_zawn.mllearning",
+            "certificate_hash": "479f579098d2bc6648ecd5510109104a97b32ad0"
+          }
+        },
+        {
+          "client_id": "95500921560-ahp643jqhuu2vsljma3k5g9a2ihr718e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEUUXfxQRRyFtP65UTahqcw8OpYaDA4Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95500921560-ahp643jqhuu2vsljma3k5g9a2ihr718e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
